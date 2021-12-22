@@ -1,2 +1,2 @@
 # testBeamSuntoryMule
-testBeamSuntoryMule 123
+testBeamSuntoryMule 1234
